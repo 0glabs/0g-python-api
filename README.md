@@ -17,4 +17,5 @@ If failed, status_message contains error details.
 
 
 The file `example.py` has some example usage. For feature requests, bugs, and reports, please file an issue on this repository.
-# zerog_python_api
+
+Install using the command ```pip install git+https://github.com/0glabs/zerog_python_api.git#egg=zerog_python_api```
