@@ -1,4 +1,4 @@
-# 0G_PYTHON_API
+# 0G-PYTHON-API
 Quick and dirty python API to access 0g's decentralized data storage system. This is provided without warranty, and is intended solely for research/protopying. For production-ready use, please refrence the Go or command-line tools.
 
 https://docs.0g.ai/0g-doc/docs/0g-storage/access-storage-through-cli (CLI Tool docs)
