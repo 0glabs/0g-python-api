@@ -13,6 +13,7 @@ If successful, status_message is "Success" and merkle_root contains the Merkle h
 If failed, status_message contains error details and merkle_root is None.
 
 Highly recommend putting needed uploads in a while loop; it is not uncommon to have dropped uploads. This method is not thread-safe. 
+
 **Download**:
 
 ```Download(filename, root) -> (filename, status_message).```
